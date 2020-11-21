@@ -38,4 +38,6 @@ Since this is the last stage of the model creation so we can now save the model 
 ### 7. Predictiong for a new image(other than daaset)
 then using the saved model we can Predict for any new Image as to which category does it belong.
 
-Refer to this Code: https://colab.research.google.com/drive/1ZR3kuvqObJ5v_sY4iTgHkkUVgrce5YPv
+## Refer these links
+For code: https://colab.research.google.com/drive/1ZR3kuvqObJ5v_sY4iTgHkkUVgrce5YPv
+For image dataset: https://drive.google.com/drive/folders/1MbvS_f4UOmT8DhfCVZxE42ktaT_FOLbe?usp=sharing
