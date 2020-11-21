@@ -1,6 +1,7 @@
 # ML-Minor Project-Image-Classification
 
 Image classification has become one of the key pilot use cases for demonstrating machine learning.
+It is a supervised learning problem: define a set of target classes (objects to identify in images), and train a model to recognize them using labeled example photos.
 
 Inside a dataset we have two directories-
 1. Train: This directory contains the images used for training.
