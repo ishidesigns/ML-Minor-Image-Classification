@@ -40,4 +40,5 @@ then using the saved model we can Predict for any new Image as to which category
 
 ## Refer these links
 For code: https://colab.research.google.com/drive/1ZR3kuvqObJ5v_sY4iTgHkkUVgrce5YPv
+
 For image dataset: https://drive.google.com/drive/folders/1MbvS_f4UOmT8DhfCVZxE42ktaT_FOLbe?usp=sharing
