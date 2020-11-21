@@ -1,4 +1,4 @@
-# ML-Minor-Image-Classification
+# ML-Minor Project-Image-Classification
 
 Image classification has become one of the key pilot use cases for demonstrating machine learning.
 
