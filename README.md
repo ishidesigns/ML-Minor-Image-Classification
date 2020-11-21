@@ -27,3 +27,5 @@ Now we evaluate the model using Confusion Matrix and Classification Report.
 
 Since this is the last stage for the model creation so we save the model using pickle library.
 then using the saved model we can Predict for any new Image as to which category does it belong.
+
+Code for the model: https://colab.research.google.com/drive/1ZR3kuvqObJ5v_sY4iTgHkkUVgrce5YPv
